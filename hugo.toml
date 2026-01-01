@@ -1,4 +1,143 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-ht'
+baseURL = "https://aria-yi.github.io/"
+theme = "hugo-ht"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+footnotereturnlinkcontents = "↩"
+
+[module.hugoVersion]
+  min = "0.147.9"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = false
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "pygments"
+    tabWidth = 4
+
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2
+
+[imaging]
+  quality = 100
+
+[params]
+  customCSS = ["css/custom.css"]
+  MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+  MathJaxVersion = "2.7.5"
+  favicon = "media/yz.png"
+  GithubRepo = "https://github.com/Aria-yi/aria-yi.github.io"
+  copyright = "&copy;"
+  copyrightYearStart = "2025"
+  blogDirName = "posts"
+  logo = { url = "yz.png", width = 50.0, height = 50.0, alt = "Yi Zhu" }
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "Yi Zhu (Aria)"
+    contentDir = "content/en"
+
+    [languages.en.params]
+      description = "Personal website of Yi Zhu "
+      licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    
+    [languages.en.taxonomies]
+      tag = "tags"
+      category = "categories"
+
+    [languages.en.permalinks]
+      posts = ":year/:month/:day/:slug/"
+
+
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+
+     [[languages.en.menu.main]]
+      name = "Research"
+      url = "/research/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "Teaching"
+      url = "/teaching/"
+      weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      weight = 4
+
+  [languages.cn]
+    languageName = "中文"
+    languageCode = "zh-cn"
+    weight = 2
+    title = "Hugo-HT"
+    contentDir = "content/cn"
+
+    [languages.cn.params]
+      description = "Aria的个人网站"
+      licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
+
+    [languages.cn.taxonomies]
+      tag = "tags"
+      category = "categories"
+
+    [languages.cn.permalinks]
+      posts = ":year/:month/:day/:slug/"
+
+    [[languages.cn.menu.main]]
+      name = "关于"
+      url = "/about/"
+      weight = 1
+
+    [[languages.cn.menu.main]]
+      name = "研究"
+      url = "/research/"
+      weight = 2
+
+    [[languages.cn.menu.main]]
+      name = "教学"
+      url = "/teaching/"
+      weight = 3
+
+    [[languages.cn.menu.main]]
+      name = "博客"
+      url = "/blog/"
+      weight = 4

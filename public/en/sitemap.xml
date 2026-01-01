@@ -2,43 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cn/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/article/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/cn/tags/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/article/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/first-post-cn/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -47,11 +12,56 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/article/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/cn/tags/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/article/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/english/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2021/01/07/second-post/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -60,11 +70,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
+    <loc>http://localhost:1313/en/categories/test/</loc>
+    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -73,58 +83,29 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/categories/test/"
+                href="http://localhost:1313/en/categories/test/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/second-post/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/classical/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/cn/categories/classical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/classical/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/prose/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/cn/tags/prose/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/prose/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/beiying/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/poem/</loc>
+    <loc>http://localhost:1313/en/tags/poem/</loc>
     <lastmod>1915-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/road-not-taken/</loc>
+    <loc>http://localhost:1313/en/1915/01/01/road-not-taken/</loc>
     <lastmod>1915-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/about/"
+                />
   </url><url>
-    <loc>http://localhost:1313/cn/about/</loc>
+    <loc>http://localhost:1313/en/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/teaching/</loc>
   </url>
 </urlset>
