@@ -210,7 +210,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>CHN Energy Group</em> · January 2024 - Present</p>
+    <p><em>CHN Energy Group</em> · January 2024 - June 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Conducted interviews with departments and subsidiaries across the group</li>
@@ -224,7 +224,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>China Huaneng Group</em> · May 2024 - Present</p>
+    <p><em>China Huaneng Group</em> · May 2024 - June 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Researched brand communication standardization for world-class enterprise development</li>
@@ -238,7 +238,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>Belt and Road Initiative Countries Research</em> · May 2024 - Present</p>
+    <p><em>Belt and Road Initiative Countries Research</em> · May 2024 - June 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Designed research instruments examining Gen-Z perspectives on human well-being</li>
