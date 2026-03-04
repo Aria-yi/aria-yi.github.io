@@ -4,7 +4,7 @@ title: "Teaching"
 
 <style>
 h1:first-of-type {
-    text-align: center !important;
+    text-align: left !important;
     font-size: 2.5em !important;  /* 可以调整成 2em, 2.5em, 3em */
 }
 

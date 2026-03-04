@@ -7,11 +7,13 @@ title: "Research"
 <style>
 
 h1:first-of-type {
-    text-align: center !important;
+    text-align: left; !important;
     font-size: 2.5em !important;  /* 可以调整成 2em, 2.5em, 3em */
 }
 
+
 .section-title {
+    text-align: center !important;
     font-size: 1.5em !important;
     font-weight: bold !important;
     margin-top: 40px !important;
@@ -59,25 +61,33 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">"We Are Not Easily Fooled Anymore": Discursive Practices and Digital Activism Around China's Mum Jobs Policy on Rednote—A Computational and Critical Discourse Analysis</div>
+<div class="paper-title">Legitimate Concerns or Gendered Grievances? A Mixed-Methods Analysis of Male HPV Vaccine Discourse on the Chinese Social Media Platform Zhihu</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · <em>Under Review</em>
+    <p>This study examines how users on Zhihu construct and contest the legitimacy of China’s male HPV vaccination policy following its approval in April 2025.  Using BERTopic modeling, thematic analysis of 843 user answers, the study identifies six competing frames including commercial exploitation, gender politics, and state distrust, and traces how these frames interact to produce politicized vaccine skepticism.  The findings suggest that resistance stems less from scientific illiteracy than from distrust of state authority, gender grievances, and moral stigmatization.</p>
+  </div>
+</div>
+
+<div class="paper-title">“We Are Not Easily Fooled Anymore”: Discursive Practices and Digital Activism Around China’s Mum Jobs Policy on Rednote—A Computational and Discourse Analysis</div>
 
 <div class="research-paper">
   <img src="/images/mumjobs.png">
   <div class="research-content">
-    <p><strong>ICA 2026</strong> · Cape Town, South Africa · June 2026 · <em>Under Review</em>
-    <p>This study examines how Xiaohongshu users engage in digital activism around 
-China's "mum jobs" policy, combining computational methods (topic modeling, semantic network, analysis, sentiment analysis) with critical discourse analysis of 20,000+ comments.</p>
+    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · <em>Under Review</em>
+    <p>This study examines how Rednote users engage in digital activism around 
+“mum jobs” - a China’s fertility support policy - combining computational methods (topic modeling, semantic network, analysis, sentiment analysis) with discourse analysis of 20,000+ comments.</p>
   </div>
 </div>
 
-<div class="paper-title">Connected Reading, Collective Power: Douban Literary Communities and the Transformation of Women's Resistance</div>
+<div class="paper-title">Connected Reading, Collective Power: Douban Literary Communities and the Transformation of Women’s Resistance</div>
 
 <div class="research-paper">
   <img src="/images/douban.png">
   <div class="research-content">
     <p><strong>AEJMC 2025</strong> · San Francisco, CA · August 2025 · 
     <a href="/files/AEJMC2025_Douban.pdf">📊 View Slides</a></p>
-    <p>This research studies how Douban webnovel communities transform women's reading from isolated resistance into collective feminist action through platform interactions, using interviews and digital ethnography to analyze community practices.</p>
+    <p>This research studies how Douban webnovel communities transform women’s reading from isolated resistance into collective feminist action through platform interactions, using interviews and digital ethnography to analyze community practices.</p>
   </div>
 </div>
 
@@ -94,13 +104,18 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
   </div>
 </div>
 
----
+<div style="margin-top: 60px;"></div>
 
 <div class="section-title">🔬 Works in Progress </div>
 
-(待添加内容)
+<div class="paper-title">Just Giving Birth? Lay Knowledge Production of Childbirth Injury in Douban Communities</div>
 
----
+<div class="paper-title">AI as Social Actor: Examining the Network Effects of Weibo’s “Comment Robert” Bot</div>
+
+<div class="paper-title">A baby will cure you? Women’s Counter-Narratives Against Medicalized Reproductive Advice on Chinese Social Media</div>
+
+<div style="margin-top: 60px;"></div>
+
 
 <div class="section-title">💼 Research Projects </div>
 
@@ -109,16 +124,16 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 </p>
 
 
-<div class="paper-title">Public Health Crisis Communication Research</div>
+<div class="paper-title">Public Communication Around Infectious Disease Topics</div>
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>Commissioned by National Bureau of Disease Control and Prevention</em> · June - December 2024</p>
+    <p><em>Commissioned by the National Disease Control and Prevention Administration of China</em> · Dec 2024 - Jul 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Analyzed and visualized data from over 106 million social media posts (2023-2024), creating infographics on media trends and public sentiment patterns</li>
-      <li>Conducted interviews with frontline health professionals to identify key communication challenges during public health emergencies</li>
-      <li>Contributed to final research report with practical recommendations for improving health communication strategies</li>
+      <li>Collected and analyzed over 130 million social media and online news posts (2023-2025) on infectious disease topics, examining public discussion patterns</li>
+      <li>Analyzed the administration’s official social media content and conducted in-depth interviews with public health officials at national and local levels to understand communication challenges within the agency</li>
+      <li>Delivered research report adopted by the administration, with recommendations for improving crisis response and public health messaging strategies</li>
     </ul>
   </div>
 </div>
@@ -130,9 +145,8 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
     <p><em>China Energy Group</em> · January 2024 - May 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Developed a 5-year communication framework aligned with energy transition goals, implemented across 80+ subsidiaries</li>
-      <li>Conducted 30+ cross-departmental interviews and analyzed organizational data to identify barriers to stakeholder alignment</li>
-      <li>Designed environmental communication strategies integrating public opinion analysis and policy compliance requirements</li>
+      <li>Conducted in-depth interviews with internal staff, industry experts, and media professionals to assess the group’s communication landscape and strategic needs</li>
+      <li>Developed a 5-year strategic communication framework to support the group’s repositioning from a conventional energy company to a clean energy leader </li>
     </ul>
   </div>
 </div>
@@ -248,5 +262,3 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
   </div>
 </div>
 
-
-(待添加内容)

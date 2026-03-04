@@ -56,12 +56,12 @@ footnotereturnlinkcontents = "↩"
   customCSS = ["css/custom.css"]
   MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.5"
-  favicon = "media/yz.png"
+  favicon = "media/LOGO6.png"
   GithubRepo = "https://github.com/Aria-yi/aria-yi.github.io"
   copyright = "Yi Zhu"
   copyrightYearStart = "2025"
   blogDirName = "posts"
-  logo = { url = "yz.png", width = 50.0, height = 50.0, alt = "Yi Zhu" }
+  logo = { url = "LOGO6.png", width = 50.0, height = 50.0, alt = "Yi Zhu" }
   author = "Yi Zhu"
 
 [languages]
@@ -101,10 +101,7 @@ footnotereturnlinkcontents = "↩"
       url = "/teaching/"
       weight = 3
 
-    [[languages.en.menu.main]]
-      name = "Blog"
-      url = "/blog/"
-      weight = 4
+
 
   [languages.cn]
     languageName = "中文"
@@ -112,6 +109,7 @@ footnotereturnlinkcontents = "↩"
     weight = 2
     title = "Hugo-HT"
     contentDir = "content/cn"
+    disabled = true
 
     [languages.cn.params]
       description = "Aria的个人网站"
