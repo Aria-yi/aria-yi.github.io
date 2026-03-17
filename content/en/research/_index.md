@@ -64,7 +64,7 @@ h1:first-of-type {
 <div class="paper-title">Legitimate Concerns or Gendered Grievances? A Mixed-Methods Analysis of Male HPV Vaccine Discourse on the Chinese Social Media Platform Zhihu</div>
 <div class="research-paper">
   <div class="research-content">
-    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · <em>Under Review</em>
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Submitted</em>
     <p>This study examines how users on Zhihu construct and contest the legitimacy of China’s male HPV vaccination policy following its approval in April 2025.  Using BERTopic modeling, thematic analysis of 843 user answers, the study identifies six competing frames including commercial exploitation, gender politics, and state distrust, and traces how these frames interact to produce politicized vaccine skepticism.  The findings suggest that resistance stems less from scientific illiteracy than from distrust of state authority, gender grievances, and moral stigmatization.</p>
   </div>
 </div>
@@ -74,7 +74,7 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/mumjobs.png">
   <div class="research-content">
-    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · <em>Under Review</em>
+    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026
     <p>This study examines how Rednote users engage in digital activism around 
 “mum jobs” - a China’s fertility support policy - combining computational methods (topic modeling, semantic network, analysis, sentiment analysis) with discourse analysis of 20,000+ comments.</p>
   </div>
