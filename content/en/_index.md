@@ -21,7 +21,7 @@ hr {
     <p>Hello! My name is Yi Zhu. I am a communication researcher interested in science communication, health communication and computational communication.</p>
     <p>My work examines how people engage with health and scientific information through digital platforms and online communities, and how emerging technologies including AI-powered systems are reshaping these processes.
     Methodologically, I combine computational analysis of large-scale social media data with qualitative approaches.</p>
-    <p>I am currently applying for PhD or second MA in communication.</p>
+    <p>I am currently applying for second MA or PHD in communication.</p>
   </div>
   
   <img src="/images/selfphoto.jpg" alt="Yi Zhu" style="width: 236px; height: 330px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
