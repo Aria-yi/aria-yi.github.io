@@ -61,11 +61,19 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">“Why Should I Get This Shot?” Competing Frames of Vaccine Skepticism in Chinese Male HPV Vaccination Discourse on Zhihu</div>
+<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Douban Communities</div>
 <div class="research-paper">
   <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Submitted</em>
-    <p>Drawing on BERTopic topic modeling and thematic analysis of 843 answers and over 10,000 comments on Zhihu (a question-and-answer based social media platform in China), this study identifies six competing frames through which Chinese male users construct vaccine skepticism following the approval of the nine-valent HPV vaccine, revealing that resistance stems less from individual-level psychological barriers than from socially constructed grievances including state distrust, commercial exploitation, gender politics, and sexual stigmatization.</p>
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
+    <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
+  </div>
+</div>
+
+<div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
+    <p>When China approved the nine-valent HPV vaccine for males in April 2025, the policy prompted substantial debate on Zhihu, a Chinese Q&A platform. This study examines how users discursively constructed resistance to male vaccination through BERTopic topic modeling and qualitative frame analysis of 843 answers and over 5,000 comments. Five competing frames are identified, organized around commercial exploitation, gender inequality, policy inconsistency, sexual behavior, and state distrust. The findings suggest that resistance was rooted in socially grounded grievances rather than individual-level psychological barriers, pointing to the limits of communication strategies focused on information or access.</p>
   </div>
 </div>
 
@@ -108,7 +116,6 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="section-title">🔬 Works in Progress </div>
 
-<div class="paper-title">Just Giving Birth? Lay Knowledge Production of Childbirth Injury in Douban Communities</div>
 
 <div class="paper-title">A baby will cure you? Women’s Counter-Narratives Against Medicalized Reproductive Advice on Chinese Social Media</div>
 
