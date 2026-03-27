@@ -116,12 +116,11 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="section-title">🔬 Works in Progress </div>
 
+<div class="paper-title">When AI Plays Doctor: Health Chatbot Use, Cyberchondria, and the Moderating Role of Perceived Anthropomorphism</div>
 
 <div class="paper-title">A baby will cure you? Women’s Counter-Narratives Against Medicalized Reproductive Advice on Chinese Social Media</div>
 
 <div class="paper-title">Who Are You, AI? Developing and Validating a Scale of Perceived AI Role in Health Information Seeking</div>
-
-<div class="paper-title">When AI Plays Doctor: Health Chatbot Use, Cyberchondria, and the Moderating Role of Perceived AI Roleg</div>
 
 <div class="paper-title">AI as Social Actor: Examining the Network Effects of Weibo’s “Comment Robert” Bot</div>
 
