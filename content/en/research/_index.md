@@ -61,7 +61,7 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Douban Communities</div>
+<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Chinese Online Communities</div>
 <div class="research-paper">
   <div class="research-content">
     <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
