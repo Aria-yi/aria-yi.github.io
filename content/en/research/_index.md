@@ -61,19 +61,11 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Chinese Online Communities</div>
+<div class="paper-title">“Who Hasn’t Given Birth?” Counter-Narratives of Childbirth Injury on Chinese Social Media</div>
 <div class="research-paper">
   <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
-    <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
-  </div>
-</div>
-
-<div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
-<div class="research-paper">
-  <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
-    <p>When China approved the nine-valent HPV vaccine for males in April 2025, the policy prompted substantial debate on Zhihu, a Chinese Q&A platform. This study examines how users discursively constructed resistance to male vaccination through BERTopic topic modeling and qualitative frame analysis of 843 answers and over 5,000 comments. Five competing frames are identified, organized around commercial exploitation, gender inequality, policy inconsistency, sexual behavior, and state distrust. The findings suggest that resistance was rooted in socially grounded grievances rather than individual-level psychological barriers, pointing to the limits of communication strategies focused on information or access.</p>
+    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <em>Accepted</em> · 🏆 <em>Top Student Paper Award</em>
+    <p>Childbirth injury affects the vast majority of women who give birth yet remains largely unspeakable in public discourse. Drawing on counter-narrative theory and analysis of user-generated discussions on Douban, this study identifies four counter-narrative themes through which Chinese women challenge the normalization of childbirth injury: naming bodily harm, exposing maternal erasure, accounting for unequal reproductive cost, and repairing intergenerational silence.</p>
   </div>
 </div>
 
@@ -116,13 +108,30 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="section-title">🔬 Works in Progress </div>
 
+<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Chinese Online Communities</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
+    <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
+  </div>
+</div>
+
+<div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
+    <p>When China approved the nine-valent HPV vaccine for males in April 2025, public response on Zhihu (a Chinese social media platform) was skeptical. This study uses topic modeling and frame analysis to identify five competing frames through which users constructed resistance. Rather than reflecting individual health concerns, these frames centered on commercial exploitation, gender inequity, and institutional distrust. The findings challenge information-deficit approaches to vaccine communication and highlight the role of social grievances in shaping public responses to health policy.</p>
+  </div>
+</div>
+
 <div class="paper-title">When AI Plays Doctor: Health Chatbot Use, Cyberchondria, and the Moderating Role of Perceived Anthropomorphism</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <em>Under Review</em>
+    <p>WThis study examines whether AI health chatbot use is associated with cyberchondria and whether perceived anthropomorphism moderates this relationship. Integrating the reassurance-seeking framework from cyberchondria research with the human-machine communication literature on social responses to AI, the study proposes that users who perceive chatbots as more human-like experience stronger cyberchondria effects. A cross-sectional survey of Chinese AI chatbot users will test this moderation model with validated measurement instruments.</p>
+  </div>
+</div>
 
-<div class="paper-title">A baby will cure you? Women’s Counter-Narratives Against Medicalized Reproductive Advice on Chinese Social Media</div>
-
-<div class="paper-title">Who Are You, AI? Developing and Validating a Scale of Perceived AI Role in Health Information Seeking</div>
-
-<div class="paper-title">AI as Social Actor: Examining the Network Effects of Weibo’s “Comment Robert” Bot</div>
 
 
 <div style="margin-top: 60px;"></div>
