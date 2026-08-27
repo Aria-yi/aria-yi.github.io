@@ -61,12 +61,36 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">“Who Hasn’t Given Birth?” Counter-Narratives of Childbirth Injury on Chinese Social Media</div>
+<div class="paper-title">"Who Hasn't Given Birth?" Counter-Narratives of Childbirth Injury on Chinese Social Media</div>
 <div class="research-paper">
+  <img src="/images/counter_narratives.png">
   <div class="research-content">
-    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <em>Accepted</em> · 🏆 <em>Top Student Paper Award</em>
+    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <a href="/files/counter-narratives.pdf">📊 View Poster</a></p>
+<p>🏆 <em>Top Student Paper Award</em></p>
     <p>Childbirth injury affects the vast majority of women who give birth yet remains largely unspeakable in public discourse. Drawing on counter-narrative theory and analysis of user-generated discussions on Douban, this study identifies four counter-narrative themes through which Chinese women challenge the normalization of childbirth injury: naming bodily harm, exposing maternal erasure, accounting for unequal reproductive cost, and repairing intergenerational silence.</p>
   </div>
+</div>
+
+<div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
+<div class="research-paper">
+  <div class="research-content">
+    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Accepted</em>
+    <p>When China approved the nine-valent HPV vaccine for males in April 2025, public response on Zhihu (a Chinese social media platform) was skeptical. This study uses topic modeling and frame analysis to identify five competing frames through which users constructed resistance. Rather than reflecting individual health concerns, these frames centered on commercial exploitation, gender inequity, and institutional distrust. The findings challenge information-deficit approaches to vaccine communication and highlight the role of social grievances in shaping public responses to health policy.</p>
+  </div>
+</div>
+
+<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Chinese Online Communities</div>
+
+<div class="research-paper">
+
+  <div class="research-content">
+
+  <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Accepted</em>
+
+  <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
+
+  </div>
+
 </div>
 
 <div class="paper-title">“We Are Not Easily Fooled Anymore”: Discursive Practices and Digital Activism Around China’s Mum Jobs Policy on Rednote—A Computational and Discourse Analysis</div>
@@ -74,7 +98,8 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/mumjobs.png">
   <div class="research-content">
-    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026
+    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · 
+<a href="/files/mum_jobs.pdf">📊 View Slides</a>
     <p>This study examines how Rednote users engage in digital activism around 
 “mum jobs” - a China’s fertility support policy - combining computational methods (topic modeling, semantic network, analysis, sentiment analysis) with discourse analysis of 20,000+ comments.</p>
   </div>
@@ -108,30 +133,13 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="section-title">🔬 Works in Progress </div>
 
-<div class="paper-title">Just Giving Birth? Lay Knowledge Production around Childbirth Injury in Chinese Online Communities</div>
-<div class="research-paper">
-  <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
-    <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
-  </div>
-</div>
-
-<div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
-<div class="research-paper">
-  <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Under Review</em>
-    <p>When China approved the nine-valent HPV vaccine for males in April 2025, public response on Zhihu (a Chinese social media platform) was skeptical. This study uses topic modeling and frame analysis to identify five competing frames through which users constructed resistance. Rather than reflecting individual health concerns, these frames centered on commercial exploitation, gender inequity, and institutional distrust. The findings challenge information-deficit approaches to vaccine communication and highlight the role of social grievances in shaping public responses to health policy.</p>
-  </div>
-</div>
-
 <div class="paper-title">When AI Plays Doctor: Health Chatbot Use, Cyberchondria, and the Moderating Role of Perceived Anthropomorphism</div>
 <div class="research-paper">
   <div class="research-content">
-    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <em>Under Review</em>
-    <p>WThis study examines whether AI health chatbot use is associated with cyberchondria and whether perceived anthropomorphism moderates this relationship. Integrating the reassurance-seeking framework from cyberchondria research with the human-machine communication literature on social responses to AI, the study proposes that users who perceive chatbots as more human-like experience stronger cyberchondria effects. A cross-sectional survey of Chinese AI chatbot users will test this moderation model with validated measurement instruments.</p>
+    
+  <p>This study examines whether AI health chatbot use is associated with cyberchondria and whether perceived anthropomorphism moderates this relationship. Integrating the reassurance-seeking framework from cyberchondria research with the human-machine communication literature on social responses to AI, the study proposes that users who perceive chatbots as more human-like experience stronger cyberchondria effects. A cross-sectional survey of Chinese AI chatbot users will test this moderation model with validated measurement instruments.</p>
   </div>
 </div>
-
 
 
 <div style="margin-top: 60px;"></div>
