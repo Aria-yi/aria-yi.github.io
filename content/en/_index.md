@@ -18,12 +18,13 @@ hr {
 
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <p>Hello! My name is Yi Zhu, and you can call me Aria. I am a communication researcher interested in health communication, science communication, and digital communication.</p>
-    <p>My research examines how people access, interpret, and communicate health and scientific information across different social and cultural contexts. I am particularly interested in how these processes vary across populations and digital environments, including the experiences of groups that are often underrepresented in health communication research.</p>
-    <p>Methodologically, I am interested in mixed-method and computational approaches that combine large-scale patterns in digital data with closer attention to people’s experiences and the contexts in which communication takes place.</p>
+    <p>Hello! My name is Yi Zhu, and I go by Aria. I am a communication researcher primarily interested in health communication, with broader interests in science communication and digital communication.</p>
+    <p>My research examines how people access, interpret, and communicate health and scientific information across different social and digital contexts. I am particularly interested in communication inequalities, including how these processes vary across populations and contexts, and how some experiences and perspectives may receive less attention or recognition in health communication.</p>
+    <p>Methodologically, I am interested in mixed-methods and computational approaches that combine large-scale analysis of digital data with closer attention to people’s experiences and the contexts in which communication takes place.</p>
   </div>
   
-  <img src="/images/selfphoto.jpg" alt="Yi Zhu" style="width: 236px; height: 330px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <img src="/images/selfphoto.jpg" alt="Yi Zhu"
+     style="width: 285px; height: 399px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
 </div>
 
 <div style="margin-top: 60px;"></div>
@@ -41,7 +42,7 @@ Chengdu University of Technology, Chengdu, China
 <div style="margin-top: 60px;"></div>
 
 
-## 👔 Professional Experience
+## 👔 Research & Professional Experience
 
 **Research Associate & Project Manager**  
 National Institute of Public Relations and Strategic Communications (NIPRSC)  
@@ -63,13 +64,12 @@ Mengxiang Technology Co., Ltd., Chengdu, China
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0;">
   
-  <!-- Languages -->
+  <!-- Programming -->
   <div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0 0 15px 0; font-size: 1em; font-weight: 600;">Languages</h3>
+    <h3 style="margin: 0 0 15px 0; font-size: 1em; font-weight: 600;">Programming</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">Python</span>
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">R</span>
-      <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">JavaScript</span>
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">HTML/CSS</span>
     </div>
   </div>
@@ -79,8 +79,6 @@ Mengxiang Technology Co., Ltd., Chengdu, China
     <h3 style="margin: 0 0 15px 0; font-size: 1em; font-weight: 600;">Data Analysis</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">SPSS</span>
-      <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">AMOS</span>
-      <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">NVivo</span>
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">MAXQDA</span>
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">Gephi</span>
       <span style="background: #f1f3f5; padding: 8px 16px; border-radius: 6px; font-size: 0.8em;">Pandas</span>

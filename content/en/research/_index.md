@@ -65,8 +65,8 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/counter_narratives.png">
   <div class="research-content">
-    <p><strong>AEJMC 2026</strong> · New Orleans, LA · August 2026 · <a href="/files/counter-narratives.pdf">📊 View Poster</a></p>
-<p>🏆 <em>Top Student Paper Award</em></p>
+    <p><strong>AEJMC 2026</strong> · New Orleans, LA · Aug 2026 · <a href="/files/counter-narratives.pdf">📊 View Poster</a></p>
+<p>🏆 <em>Third Top Student Paper Award</em></p>
     <p>Childbirth injury affects the vast majority of women who give birth yet remains largely unspeakable in public discourse. Drawing on counter-narrative theory and analysis of user-generated discussions on Douban, this study identifies four counter-narrative themes through which Chinese women challenge the normalization of childbirth injury: naming bodily harm, exposing maternal erasure, accounting for unequal reproductive cost, and repairing intergenerational silence.</p>
   </div>
 </div>
@@ -74,7 +74,7 @@ h1:first-of-type {
 <div class="paper-title">“Why Should I Get This Shot?” Vaccine Skepticism and Competing Frames in Chinese Male HPV Vaccination Discourse on Zhihu</div>
 <div class="research-paper">
   <div class="research-content">
-    <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Accepted</em>
+    <p><strong>NCA 2026</strong> · New Orleans, LA · Nov 2026 · <em>Accepted</em>
     <p>When China approved the nine-valent HPV vaccine for males in April 2025, public response on Zhihu (a Chinese social media platform) was skeptical. This study uses topic modeling and frame analysis to identify five competing frames through which users constructed resistance. Rather than reflecting individual health concerns, these frames centered on commercial exploitation, gender inequity, and institutional distrust. The findings challenge information-deficit approaches to vaccine communication and highlight the role of social grievances in shaping public responses to health policy.</p>
   </div>
 </div>
@@ -85,7 +85,7 @@ h1:first-of-type {
 
   <div class="research-content">
 
-  <p><strong>NCA 2026</strong> · New Orleans, LA · November 2026 · <em>Accepted</em>
+  <p><strong>NCA 2026</strong> · New Orleans, LA · Nov 2026 · <em>Accepted</em>
 
   <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
 
@@ -98,10 +98,10 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/mumjobs.png">
   <div class="research-content">
-    <p><strong>IAMCR 2026</strong> · Galway, Ireland · June 2026 · 
+    <p><strong>IAMCR 2026</strong> · Galway, Ireland · Jun 2026 · 
 <a href="/files/mum_jobs.pdf">📊 View Slides</a>
     <p>This study examines how Rednote users engage in digital activism around 
-“mum jobs” - a China’s fertility support policy - combining computational methods (topic modeling, semantic network, analysis, sentiment analysis) with discourse analysis of 20,000+ comments.</p>
+“mum jobs”, a China’s fertility-support policy, combining computational methods (including topic modeling and semantic network analysis) with discourse analysis of 20,000+ comments.</p>
   </div>
 </div>
 
@@ -110,7 +110,7 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/douban.png">
   <div class="research-content">
-    <p><strong>AEJMC 2025</strong> · San Francisco, CA · August 2025 · 
+    <p><strong>AEJMC 2025</strong> · San Francisco, CA · Aug 2025 · 
     <a href="/files/AEJMC2025_Douban.pdf">📊 View Slides</a></p>
     <p>This research studies how Douban webnovel communities transform women’s reading from isolated resistance into collective feminist action through platform interactions, using interviews and digital ethnography to analyze community practices.</p>
   </div>
@@ -121,26 +121,13 @@ h1:first-of-type {
 <div class="research-paper">
   <img src="/images/webnovels.png">
   <div class="research-content">
-    <p><strong>ICA 2025</strong> · Denver, CO · June 2025 · 
+    <p><strong>ICA 2025</strong> · Denver, CO · Jun 2025 · 
     <a href="/files/ICA2025_Webnovels.pdf">📊 View Slides</a></p>
     <p>This study explores cross-cultural interpretations of Chinese webnovels through 
 thematic analysis of 4,000+ reader comments on Chinese and English platforms, 
 revealing how cultural backgrounds shape meaning-making in transnational digital reading.</p>
   </div>
 </div>
-
-<div style="margin-top: 60px;"></div>
-
-<div class="section-title">🔬 Works in Progress </div>
-
-<div class="paper-title">When AI Plays Doctor: Health Chatbot Use, Cyberchondria, and the Moderating Role of Perceived Anthropomorphism</div>
-<div class="research-paper">
-  <div class="research-content">
-    
-  <p>This study examines whether AI health chatbot use is associated with cyberchondria and whether perceived anthropomorphism moderates this relationship. Integrating the reassurance-seeking framework from cyberchondria research with the human-machine communication literature on social responses to AI, the study proposes that users who perceive chatbots as more human-like experience stronger cyberchondria effects. A cross-sectional survey of Chinese AI chatbot users will test this moderation model with validated measurement instruments.</p>
-  </div>
-</div>
-
 
 <div style="margin-top: 60px;"></div>
 
@@ -156,7 +143,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>Commissioned by the National Disease Control and Prevention Administration of China</em> · Dec 2024 - Jul 2025</p>
+    <p><em>Commissioned by the National Disease Control and Prevention Administration of China</em> · Dec 2024-Jul 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Collected and analyzed over 130 million social media and online news posts (2023-2025) on infectious disease topics, examining public discussion patterns</li>
@@ -166,11 +153,53 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
   </div>
 </div>
 
+<div class="paper-title">Innovation Communication Research on Traditional Chinese Medicine</div>
+
+<div class="research-paper">
+  <div class="research-content">
+    <p><em>Commissioned by the National Administration of Traditional Chinese Medicine</em> · Jul 2022-May 2025</p>
+    <p>Key Contributions:</p>
+    <ul style="margin: 5px 0; padding-left: 20px;">
+      <li>Analyzed international media coverage of Traditional Chinese Medicine</li>
+      <li>Examined overseas audience perceptions through social media data analysis</li>
+      <li>Authored international communication sections for three annual research reports</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-title">Risk Communication on Nuclear Safety</div>
+
+<div class="research-paper">
+  <div class="research-content">
+    <p><em>National Natural Science Foundation Sub-project</em> · Sep 2022-Jun 2025</p>
+    <p>Key Contributions:</p>
+    <ul style="margin: 5px 0; padding-left: 20px;">
+      <li>Analyzed media reports from China and neighboring countries to map regional risk narratives</li>
+      <li>Developed science communication strategies to bridge knowledge gaps in nuclear safety communication across cultural boundaries</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-title">Air Pollution Risk Communication Research</div>
+
+<div class="research-paper">
+  <div class="research-content">
+    <p><em>Research Program for Key Issues in Air Pollution Control (Premier’s Fund)</em> · Jul 2022-Jul 2023</p>
+    <p>Key Contributions:</p>
+    <ul style="margin: 5px 0; padding-left: 20px;">
+      <li>Built theoretical framework drawing from environmental, risk, and public policy communication theories</li>
+      <li>Conducted content analysis of air pollution coverage across domestic and international media</li>
+      <li>Analyzed temporal-spatial patterns and topic evolution in public discussions</li>
+    </ul>
+  </div>
+</div>
+
+
 <div class="paper-title">Public Communications Strategy for China Energy Group</div>
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>China Energy Group</em> · January 2024 - May 2025</p>
+    <p><em>Commissioned by China Energy Group</em> · Jan 2024-May 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Conducted in-depth interviews with internal staff, industry experts, and media professionals to assess the group’s communication landscape and strategic needs</li>
@@ -183,7 +212,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>Ministry of Education</em> · January 2023 - October 2023</p>
+    <p><em>Commissioned by Ministry of Education</em> · Jan 2023-Oct 2023</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Coordinated a nationwide research initiative across 15 provinces</li>
@@ -193,24 +222,12 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
   </div>
 </div>
 
-<div class="paper-title">Science Communication in Nuclear Safety</div>
-
-<div class="research-paper">
-  <div class="research-content">
-    <p><em>National Natural Science Foundation Sub-project</em> · September 2022 - June 2025</p>
-    <p>Key Contributions:</p>
-    <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Analyzed media reports from China and neighboring countries to map regional risk narratives</li>
-      <li>Developed science communication strategies to bridge knowledge gaps in nuclear safety communication across cultural boundaries</li>
-    </ul>
-  </div>
-</div>
 
 <div class="paper-title">Science Communication in Intellectual Property</div>
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>National Intellectual Property Administration</em> · September 2023 - December 2023</p>
+    <p><em>Commissioned by National Intellectual Property Administration</em> · Sep 2023 - Dec 2023</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Analyzed 500+ news articles and 10,000+ social media posts on IP-related topics (2019-2023)</li>
@@ -220,53 +237,12 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
   </div>
 </div>
 
-<div class="paper-title">TCM Innovation Communication Research</div>
-
-<div class="research-paper">
-  <div class="research-content">
-    <p><em>National Administration of Traditional Chinese Medicine</em> · 2022 - 2024</p>
-    <p>Key Contributions:</p>
-    <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Analyzed international media coverage of Traditional Chinese Medicine</li>
-      <li>Examined overseas audience perceptions through social media data analysis</li>
-      <li>Authored international communication sections for three annual research reports</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-title">Air Pollution Risk Communication Research</div>
-
-<div class="research-paper">
-  <div class="research-content">
-    <p><em>Premier Fund Annual Project (Sub-project)</em> · July 2022 - July 2023</p>
-    <p>Key Contributions:</p>
-    <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Built theoretical framework drawing from environmental, risk, and public policy communication theories</li>
-      <li>Conducted content analysis of air pollution coverage across domestic and international media</li>
-      <li>Analyzed temporal-spatial patterns and topic evolution in public discussions</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-title">Strategic Communication for State-owned Energy Enterprise</div>
-
-<div class="research-paper">
-  <div class="research-content">
-    <p><em>CHN Energy Group</em> · January 2024 - June 2025</p>
-    <p>Key Contributions:</p>
-    <ul style="margin: 5px 0; padding-left: 20px;">
-      <li>Conducted interviews with departments and subsidiaries across the group</li>
-      <li>Provided consulting on risk events, environmental innovation, and clean energy branding</li>
-      <li>Developed strategic recommendations implemented enterprise-wide</li>
-    </ul>
-  </div>
-</div>
 
 <div class="paper-title">Brand Communication Standardization Research</div>
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>China Huaneng Group</em> · May 2024 - June 2025</p>
+    <p><em>Commissioned by China Huaneng Group</em> · May 2024-Jun 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Researched brand communication standardization for world-class enterprise development</li>
@@ -280,7 +256,7 @@ revealing how cultural backgrounds shape meaning-making in transnational digital
 
 <div class="research-paper">
   <div class="research-content">
-    <p><em>Belt and Road Initiative Countries Research</em> · May 2024 - June 2025</p>
+    <p><em>Belt and Road Initiative Countries Research project</em> · May 2024-Jun 2025</p>
     <p>Key Contributions:</p>
     <ul style="margin: 5px 0; padding-left: 20px;">
       <li>Designed research instruments examining Gen-Z perspectives on human well-being</li>

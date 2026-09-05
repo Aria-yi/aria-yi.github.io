@@ -58,7 +58,7 @@ article > h1:first-child {
 <div class="paper-title">Instructor - Public Relations & Advertising</div>
 
 <div class="teaching-content">
-  <p>Beijing Jingzuo Technology Co., Ltd. · September 2019 - March 2023</p>
+  <p>Beijing Jingzuo Technology Co., Ltd. · Sep 2019-Mar 2023</p>
   
   <ul>
     <li>Provided exam preparation guidance for 300+ students pursuing graduate studies in advertising and public relations</li>
