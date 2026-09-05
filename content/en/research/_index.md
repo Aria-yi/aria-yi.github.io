@@ -61,13 +61,13 @@ h1:first-of-type {
 
 <div class="section-title">📝 Conference Papers </div>
 
-<div class="paper-title">"Who Hasn't Given Birth?" Counter-Narratives of Childbirth Injury on Chinese Social Media</div>
+<div class="paper-title">“Who Hasn’t Given Birth?” Counter-Narratives of Childbirth Injury on Chinese Social Media</div>
 <div class="research-paper">
   <img src="/images/counter_narratives.png">
   <div class="research-content">
     <p><strong>AEJMC 2026</strong> · New Orleans, LA · Aug 2026 · <a href="/files/counter-narratives.pdf">📊 View Poster</a></p>
 <p>🏆 <em>Third Top Student Paper Award</em></p>
-    <p>Childbirth injury affects the vast majority of women who give birth yet remains largely unspeakable in public discourse. Drawing on counter-narrative theory and analysis of user-generated discussions on Douban, this study identifies four counter-narrative themes through which Chinese women challenge the normalization of childbirth injury: naming bodily harm, exposing maternal erasure, accounting for unequal reproductive cost, and repairing intergenerational silence.</p>
+    <p>Childbirth injury is common among women who give birth, yet it remains largely absent from public discourse and is often normalized as part of maternal endurance. Drawing on counter-narrative theory and thematic and narrative analysis of Douban discussions, this study identifies four ways women challenge this normalization: naming bodily harm, exposing maternal erasure, accounting for unequal reproductive costs, and repairing intergenerational silence. The study highlights embodied experience as a positioning resource and epistemic repair as a counter-narrative practice that helps restore the speakability of childbirth injury.</p>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ h1:first-of-type {
 <div class="research-paper">
   <div class="research-content">
     <p><strong>NCA 2026</strong> · New Orleans, LA · Nov 2026 · <em>Accepted</em>
-    <p>When China approved the nine-valent HPV vaccine for males in April 2025, public response on Zhihu (a Chinese social media platform) was skeptical. This study uses topic modeling and frame analysis to identify five competing frames through which users constructed resistance. Rather than reflecting individual health concerns, these frames centered on commercial exploitation, gender inequity, and institutional distrust. The findings challenge information-deficit approaches to vaccine communication and highlight the role of social grievances in shaping public responses to health policy.</p>
+    <p>This study examines public debate following China’s approval of the nine-valent HPV vaccine for males in 2025. Combining topic modeling with qualitative frame analysis, it identifies competing interpretations of male HPV vaccination centered on commercial interests, gender inequality, sexual morality, policy inconsistency, and institutional distrust. The findings highlight how broader social grievances can shape vaccine skepticism beyond individual-level health concerns.</p>
   </div>
 </div>
 
@@ -87,7 +87,7 @@ h1:first-of-type {
 
   <p><strong>NCA 2026</strong> · New Orleans, LA · Nov 2026 · <em>Accepted</em>
 
-  <p>Childbirth injury affects a significant proportion of postpartum women, yet remains largely invisible in both medical systems and public discourse under China's pro-natalist context. This study examines how women in Douban communities produce lay knowledge about childbirth injury through naming bodily harm, negotiating across different embodied experiences, and breaking intergenerational silence. Drawing on Haraway’s situated knowledges, the findings suggest that diversity of embodied experience is the condition through which collective knowledge-building becomes possible.</p>
+  <p>This study examines how women in Douban communities collectively produce lay knowledge about childbirth injury. Drawing on Haraway’s situated knowledges, it focuses on how differently positioned participants negotiate experience, compare bodily knowledge, and build shared understandings of reproductive injury. The study argues that collective knowledge in online communities emerges through the interaction of partial and situated perspectives, while also remaining shaped by social limits on what can be articulated and recognized.</p>
 
   </div>
 
@@ -100,8 +100,7 @@ h1:first-of-type {
   <div class="research-content">
     <p><strong>IAMCR 2026</strong> · Galway, Ireland · Jun 2026 · 
 <a href="/files/mum_jobs.pdf">📊 View Slides</a>
-    <p>This study examines how Rednote users engage in digital activism around 
-“mum jobs”, a China’s fertility-support policy, combining computational methods (including topic modeling and semantic network analysis) with discourse analysis of 20,000+ comments.</p>
+    <p>This study examines how Rednote users formed a digital counter-public around China’s “mum jobs” policy, a fertility-support initiative promoted as beneficial to women. Combining computational analysis with critical discourse analysis of online discussions, it explores how users reinterpreted the policy through gender, labour, and class concerns and used discursive practices to sustain collective critique.</p>
   </div>
 </div>
 
