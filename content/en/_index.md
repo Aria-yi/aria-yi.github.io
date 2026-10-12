@@ -18,12 +18,12 @@ hr {
 
 <div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <p>Hello! My name is Yi Zhu, and I go by Aria. I am a communication researcher primarily interested in health communication, with broader interests in science communication and digital communication.</p>
-    <p>My research examines how people access, interpret, and communicate health and scientific information across different social and digital contexts. I am particularly interested in communication inequalities, including how these processes vary across populations and contexts, and how some experiences and perspectives may receive less attention or recognition in health communication.</p>
-    <p>Methodologically, I am interested in mixed-methods and computational approaches that combine large-scale analysis of digital data with closer attention to people’s experiences and the contexts in which communication takes place.</p>
+    <p>Hi! I'm Yi Zhu, and you can call me Aria. I'm an independent communication researcher with a primary interest in health communication. My research explores how people interpret health experiences and information, evaluate the credibility of different knowledge sources, and share knowledge across interpersonal, clinical, and digital contexts.</p>
+    <p>My current projects examine health communication in the contexts of reproductive health, gender, and vaccination. I take a mixed-methods approach, combining computational techniques and quantitative analysis with qualitative inquiry.</p>
+    <p>I hold a master's degree in Journalism and Communication from Xiamen University. Previously, I worked as a Research Associate and Project Manager at the National Institute of Public Relations and Strategic Communications, Communication University of China, where I conducted research on health, risk, science, and strategic communication. </p>
   </div>
   
-  <img src="/images/selfphoto.jpg" alt="Yi Zhu"
+<img src="/images/selfphoto.jpg" alt="Yi Zhu"
      style="width: 285px; height: 399px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
 </div>
 
