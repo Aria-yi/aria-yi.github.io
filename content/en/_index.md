@@ -16,16 +16,37 @@ hr {
 
 </style>
 
-<div style="display: flex; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 1;">
-    <p>Hi! I'm Yi Zhu, and you can call me Aria. I'm an independent communication researcher with a primary interest in health communication. My research explores how people interpret health experiences and information, evaluate the credibility of different knowledge sources, and share knowledge across interpersonal, clinical, and digital contexts.</p>
-    <p>My current projects examine health communication in the contexts of reproductive health, gender, and vaccination. I take a mixed-methods approach, combining computational techniques and quantitative analysis with qualitative inquiry.</p>
-    <p>I hold a master's degree in Journalism and Communication from Xiamen University. Previously, I worked as a Research Associate and Project Manager at the National Institute of Public Relations and Strategic Communications, Communication University of China, where I conducted research on health, risk, science, and strategic communication. </p>
-  </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 30px;">
+
+  <div style="flex: 1; min-width: 260px;">
+
+  <p>Hi! I'm Yi Zhu, and you can call me Aria. I'm an independent communication researcher with a primary interest in health communication. My research explores how people interpret health experiences and information, evaluate the credibility of different knowledge sources, and share knowledge across interpersonal, clinical, and digital contexts.</p>
+
+  <p>My current projects examine health communication in the contexts of reproductive health, gender, and vaccination. I take a mixed-methods approach, combining computational techniques and quantitative analysis with qualitative inquiry.</p>
+
+   <p>I hold a master's degree in Journalism and Communication from Xiamen University. Previously, I worked as a Research Associate and Project Manager at the National Institute of Public Relations and Strategic Communications, Communication University of China, where I conducted research on health, risk, science, and strategic communication.</p>
+
   
-<img src="/images/selfphoto.jpg" alt="Yi Zhu"
-     style="width: 285px; height: 399px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+<p style="margin-top: 20px; display: flex; align-items: center; gap: 8px;">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="17" height="17" viewBox="0 0 24 24"
+       fill="none" stroke="currentColor" stroke-width="1.8"
+       stroke-linecap="round" stroke-linejoin="round"
+       aria-hidden="true">
+    <rect x="2" y="4" width="20" height="16" rx="2"/>
+    <path d="m22 7-10 6L2 7"/>
+  </svg>
+  <a href="mailto:yi_zhu0908@outlook.com">yi_zhu0908@outlook.com</a>
+</p>
+
+  </div>
+
+  <img src="/images/selfphoto.jpg" alt="Yi Zhu"
+       style="width: 285px; height: 399px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+
 </div>
+
 
 <div style="margin-top: 60px;"></div>
 
